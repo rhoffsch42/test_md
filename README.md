@@ -1,6 +1,3 @@
-# Voxel engine using octrees, 2d and 3d perlin noise
-<img src="https://drive.google.com/uc?id=1q5iL2dIpc25KVnCGGKMVL2Wsid0Di-Ho" width="500" height="300" />
-
 ## 
 # 2d data compresion using a quadtree
 <img src="https://drive.google.com/uc?id=1FNLI5SFlg3KzFHCMTODoD_D2mCiLZhpr" width="500" height="500" />
